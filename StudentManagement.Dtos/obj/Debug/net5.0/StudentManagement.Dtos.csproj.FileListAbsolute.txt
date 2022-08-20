@@ -1,0 +1,72 @@
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.deps.json
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\ref\StudentManagement.Dtos.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.AssemblyReference.cache
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfoInputs.cache
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfo.cs
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\ref\StudentManagement.Dtos.dll
+C:\Projects\Decagon\11b\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.deps.json
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\refint\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon stuff\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\ref\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.deps.json
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\refint\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon study\week6 and 7\StudentManagement\StudentManagement.Dtos\obj\Debug\net5.0\ref\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.deps.json
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfo.cs
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\refint\StudentManagement.Dtos.dll
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Documents\decagon study\week6 and 7\Omeni chinonso\StudentManagement.Dtos\obj\Debug\net5.0\ref\StudentManagement.Dtos.dll
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.deps.json
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfo.cs
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\refint\StudentManagement.Dtos.dll
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Desktop\for onyi\StudentManagement.Dtos\obj\Debug\net5.0\ref\StudentManagement.Dtos.dll
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.deps.json
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\bin\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.AssemblyInfo.cs
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.dll
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\refint\StudentManagement.Dtos.dll
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\StudentManagement.Dtos.pdb
+C:\Users\hp\Downloads\Onyinyechi Assignment\Dozie\StudentManagement.Dtos\obj\Debug\net5.0\ref\StudentManagement.Dtos.dll
